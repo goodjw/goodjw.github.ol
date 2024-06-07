@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+body{
+  
+  margin:0 auto;
+	padding:0;
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  width: 1920px;
+  height:10800px;
+  font-family: 'Pretendard','NBG','나눔바른고딕','Malgun Gothic','맑은 고딕',Dotum,'돋움',sans-serif !important;
+
+}
+
+h1 {
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 373px;
+  font-size: 133pt;
+  color: #27336d;
+}
+
+
+ul{
+  display: flex;
+  justify-content: center;
+  background-color: rgba( 255, 255, 255, 0.5);
+  width: 1400px;
+  height: 68px;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}
+
+a {width: 100px;
+
+}
+li {display: flex;
+  margin-right: 97px;
+  margin-left: 97px;
+  font-size: 16pt;
+  color: #27336d;
+}
